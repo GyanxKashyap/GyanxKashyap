@@ -28,6 +28,16 @@ Passionate about creating productivity tools, games, and experimenting with new 
 - Better coding practices
 
 ---
+## 🚀 Developer Journey
+
+2025 → Started learning HTML/CSS  
+2025 → Built first Portfolio  
+2026 → Built Habit Tracker  
+2026 → Built Lunar Focus 🌙  
+2026 → Started Game Dev (Snake + Flappy Bird)  
+2026 → Preparing for JEE + Coding daily  
+2027 → [Loading...]
+
 
 ### 🛠 Tech Stack
 `HTML` `CSS` `JavaScript` `Git` `GitHub`
@@ -96,7 +106,10 @@ A personal portfolio to showcase projects, skills, and growth journey.
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 💭 Builder Philosophy
 
+"Learning by shipping projects,
+improving one bug and one idea at a time."
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
