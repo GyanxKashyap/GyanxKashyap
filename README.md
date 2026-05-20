@@ -9,7 +9,6 @@ Passionate about creating productivity tools, games, and experimenting with new 
 ---
 
 ### 🔭 Currently Working On
-- 🐍 Snake Game — Classic game recreation with modern UI
 - 🐤 Flappy Bird Clone — Building mechanics & gameplay logic
 - 🚀 Exploring new projects and improving development skills
 
@@ -17,6 +16,7 @@ Passionate about creating productivity tools, games, and experimenting with new 
 - 🌙 **Lunar Focus** — Space-themed productivity & focus app
 - 📈 **Habit Tracker** — Tool for building habits and tracking consistency
 - 💼 **Portfolio Website** — Personal portfolio showcasing projects & journey
+- - 🐍 Snake Game — Classic game recreation with modern UI
 
 ---
 
