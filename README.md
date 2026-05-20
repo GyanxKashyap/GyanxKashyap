@@ -16,7 +16,7 @@ Passionate about creating productivity tools, games, and experimenting with new 
 - 🌙 **Lunar Focus** — Space-themed productivity & focus app
 - 📈 **Habit Tracker** — Tool for building habits and tracking consistency
 - 💼 **Portfolio Website** — Personal portfolio showcasing projects & journey
-- - 🐍 Snake Game — Classic game recreation with modern UI
+-  🐍 Snake Game — Classic game recreation with modern UI
 
 ---
 
