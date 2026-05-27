@@ -15,7 +15,8 @@ Passionate about creating productivity tools, games, and experimenting with new 
 - 📈 **Habit Tracker** — Tool for building habits and tracking consistency
 - 💼 **Portfolio Website** — Personal portfolio showcasing projects & journey
 -  🐍 Snake Game — Classic game recreation with modern UI
-- 🐤 Flappy Bird Clone — Building mechanics & gameplay logic
+- 🐤 Air Bound — Building mechanics & gameplay logic
+- ⛩️ Spell Frame - A anime inspired live gesture tacking simulator
 - 🚀 Exploring new projects and improving development skills
 ---
 
@@ -33,7 +34,8 @@ Passionate about creating productivity tools, games, and experimenting with new 
 2025 → Built first Portfolio  
 2026 → Built Habit Tracker  
 2026 → Built Lunar Focus 🌙  
-2026 → Started Game Dev (Snake + Flappy Bird)  
+2026 → Started Game Dev (Snake + Flappy Bird) 
+2026 → Built hand and gesture tracker Spell Frame🖼️
 2026 → Preparing for JEE + Coding daily  
 2027 → [Loading...]
 
@@ -75,6 +77,8 @@ Learning game mechanics, collision detection, and animation systems.
 ### 💼 Portfolio Website
 A personal portfolio to showcase projects, skills, and growth journey.
 
+### ⛩️ Spell Frame 
+A anime inspired live gesture tacking simulator,with mic and hand tracking for the creation of something unique.
 ---
 
 ## 🎯 Goals for 2026
