@@ -64,12 +64,12 @@ Track habits, monitor progress, and build routines.
 
 ---
 
-### 🐍 Snake Game *(In Progress)*
+### 🐍 Snake Game 
 Recreating the classic Snake game while improving game logic and UI skills.
 
 ---
 
-### 🐤 Flappy Bird Clone *(In Progress)*
+### 🐤 Flappy Bird Clone 
 Learning game mechanics, collision detection, and animation systems.
 
 ---
