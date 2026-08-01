@@ -17,6 +17,7 @@ Passionate about creating productivity tools, games, and experimenting with new 
 -  🐍 Snake Game — Classic game recreation with modern UI
 - 🐤 Air Bound — Building mechanics & gameplay logic
 - ⛩️ LImitless — Building AR technique system and gesture control
+- 🤖 NY Assistant - AI chatbot and comapnion with two sacred models
 - 🚀 Exploring new projects and improving development skills
 ---
 
@@ -81,6 +82,11 @@ A personal portfolio to showcase projects, skills, and growth journey.
 ---
 ### ⛩️ Limitless
 learing AR technique system and gesture and 3-D modelling.
+
+
+---
+### 🤖 NY Assistant
+AI chatbot and companion with two separate models FRIDAY and JARVIS
 
 
 ---
