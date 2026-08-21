@@ -2,7 +2,7 @@
   <img src="./github_star_twinkle.gif" width="550" alt="Starry animation">
 </p>
 
-# 🌙 Hi 👋, I'm Gyan Kashyap
+#  Hi 👋, I'm Gyan Kashyap
 ### 🚀 Student Developer | 💻 Building Apps & Games | 🎮 Tech Enthusiast | 🇮🇳 India
 
 Passionate about creating productivity tools, games, and experimenting with new ideas through code. Learning by building projects and growing step by step.
@@ -12,7 +12,6 @@ Passionate about creating productivity tools, games, and experimenting with new 
 
 ---
 
-### 🔭 Currently Working On
 
 ### ✅ Completed Projects
 - 🌙 **Lunar Focus** — Space-themed productivity & focus app
@@ -45,16 +44,13 @@ Passionate about creating productivity tools, games, and experimenting with new 
 2027 → [Loading...]
 
 
-### 🛠 Tech Stack
-`HTML` `CSS` `JavaScript` `Git` `GitHub`
-
 *(Growing with every project 🚀)*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌙 Lunar Focus
+###  Lunar Focus
 A space-inspired productivity app designed for focus sessions and consistency.
 
 Features:
@@ -64,38 +60,37 @@ Features:
 
 ---
 
-### 📈 Habit Tracker
+###  Habit Tracker
 Track habits, monitor progress, and build routines.
 
 ---
 
-### 🐍 Snake Game 
+###  Snake Game 
 Recreating the classic Snake game while improving game logic and UI skills.
 
 ---
 
-### 🐤 Flappy Bird Clone 
+###  Flappy Bird Clone 
 Learning game mechanics, collision detection, and animation systems.
 
 ---
 
-### 💼 Portfolio Website
+###  Portfolio Website
 A personal portfolio to showcase projects, skills, and growth journey.
 
 
 ---
-### ⛩️ Limitless
+###  Limitless
 learing AR technique system and gesture and 3-D modelling.
 
 
 ---
-### 🤖 NY Assistant
+###  NY Assistant
 AI chatbot and companion with two separate models FRIDAY and JARVIS
 
 
 ---
 ## 🎯 Goals for 2026
-- 🚀 Ship more public projects
 - 🎮 Build better games
 - 💼 Grow portfolio
 - 📚 Balance studies + coding
