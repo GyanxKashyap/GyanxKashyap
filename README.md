@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./gyan_star_portrait_once.gif" width="500">
-</p> 
+
 
 # 🌙 Hi 👋, I'm Gyan Kashyap
 ### 🚀 Student Developer | 💻 Building Apps & Games | 🎮 Tech Enthusiast | 🇮🇳 India
