@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./github_star_twinkle.gif" width="550" alt="Starry animation">
+</p>
 
 # 🌙 Hi 👋, I'm Gyan Kashyap
 ### 🚀 Student Developer | 💻 Building Apps & Games | 🎮 Tech Enthusiast | 🇮🇳 India
