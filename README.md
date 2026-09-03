@@ -3,17 +3,17 @@
 <h1>--->Greetings GYANxKASHYAP Here<---</h1>
 
 <p><b>18,Student Developer • Learning with Vibe-Coding • AI & Tech</b></p>
-<table>
+<table align="center">
 <tr>
-<td align="center" width="35%">
+<td align="center" width="30%">
 
-<img src="./AMONG US.png" width="180">
+<img src="./AMONG US.png" width="160">
 
 </td>
 
-<td align="center" width="65%">
+<td align="center" width="70%">
 
-<img src="./github_star_twinkle.gif" width="500">
+<img src="./github_star_twinkle.gif" width="400">
 
 </td>
 </tr>
