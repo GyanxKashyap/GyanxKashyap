@@ -13,11 +13,12 @@
 
 <td align="center" width="65%">
 
-<img src="./star-pattern.gif" width="500">
+<img src="./github_star_twinkle.gif" width="500">
 
 </td>
 </tr>
 </table>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/godl1kegyan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Gyanxkashyap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanxkashyap@gmail.com) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Gyanxkashyap) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/GyanxKashyap)
