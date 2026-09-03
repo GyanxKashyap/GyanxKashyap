@@ -119,3 +119,6 @@ An AI-powered chatbot project exploring conversational interfaces and AI integra
 </tr>
 </table>
 
+## About Me
+
+18, Building for the love of Game and learning AI/ML to explore my thoughts to create my own reality.
