@@ -1,19 +1,19 @@
 <div align="center">
 
-<h1>--->Greetings GYANxKASHYAP Here<---</h1>
+<h1>---> Greetings, GYANxKASHYAP Here <---</h1>
 
-<p><b>18,Student Developer • Learning with Vibe-Coding • AI & Tech</b></p>
+<p><b>18, Student Developer • Learning with Vibe-Coding • AI & Tech/b></p>
 <table align="center">
 <tr>
 <td align="center" width="30%">
 
-<img src="./AMONG US.png" width="160">
+<img src="./AMONG US.png" width="130">
 
 </td>
 
 <td align="center" width="70%">
 
-<img src="./github_star_twinkle.gif" width="400">
+<img src="./github_star_twinkle.gif" width="300">
 
 </td>
 </tr>
