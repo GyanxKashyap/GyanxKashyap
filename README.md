@@ -1,9 +1,15 @@
+<div align="center">
+
+<h1>--->Greetings GYANxKASHYAP Here<---</h1>
+
+<p><b>18,Student Developer • Learning with Vibe-Coding • AI & Tech</b></p>
+
+<img src="./AMONG US.png" width="220">
+
+</div>
 <p align="center">
   <img src="./github_star_twinkle.gif" width="550" alt="Starry animation">
 </p>
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/godl1kegyan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Gyanxkashyap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanxkashyap@gmail.com) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Gyanxkashyap) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/GyanxKashyap)
