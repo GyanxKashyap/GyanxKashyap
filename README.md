@@ -13,7 +13,7 @@
 
 <td align="center" width="70%">
 
-<img src="./github_star_twinkle.gif" width="300">
+<img src="./github_star_twinkle.gif" width="280">
 
 </td>
 </tr>
