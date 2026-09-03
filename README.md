@@ -2,109 +2,11 @@
   <img src="./github_star_twinkle.gif" width="550" alt="Starry animation">
 </p>
 
-#  Hi 👋, I'm Gyan Kashyap
-### 🚀 Student Developer | 💻 Building Apps & Games | 🎮 Tech Enthusiast | 🇮🇳 India
 
-Passionate about creating productivity tools, games, and experimenting with new ideas through code. Learning by building projects and growing step by step.
-
-📚 **Currently:** Student + Builder + Learning Development  
-🤝 **Open for:** Collaboration • Learning • Creative Projects
-
----
-
-
-### ✅ Completed Projects
-- 🌙 **Lunar Focus** — Space-themed productivity & focus app
-- 📈 **Habit Tracker** — Tool for building habits and tracking consistency
-- 💼 **Portfolio Website** — Personal portfolio showcasing projects & journey
--  🐍 Snake Game — Classic game recreation with modern UI
-- 🐤 Air Bound — Building mechanics & gameplay logic
-- ⛩️ LImitless — Building AR technique system and gesture control
-- 🤖 NY Assistant - AI chatbot and comapnion with two sacred models
-- 🚀 Exploring new projects and improving development skills
----
-
-### 🌱 Currently Learning
-- Web Development (`HTML` `CSS` `JavaScript`)
-- Git & GitHub
-- UI/UX Design
-- App Development
-- Better coding practices
-
----
-## 🚀 Developer Journey
-
-2025 → Started learning HTML/CSS  
-2025 → Built first Portfolio  
-2026 → Built Habit Tracker  
-2026 → Built Lunar Focus 🌙  
-2026 → Started Game Dev (Snake + Flappy Bird) 
-2026 → Started AR technique system (Limitless)
-2026 → Preparing for JEE + Coding daily  
-2027 → [Loading...]
-
-
-*(Growing with every project 🚀)*
-
----
-
-## 🚀 Featured Projects
-
-###  Lunar Focus
-A space-inspired productivity app designed for focus sessions and consistency.
-
-Features:
-- ⏳ Focus timer
-- 🌌 Aesthetic UI
-- 📈 Productivity tools
-
----
-
-###  Habit Tracker
-Track habits, monitor progress, and build routines.
-
----
-
-###  Snake Game 
-Recreating the classic Snake game while improving game logic and UI skills.
-
----
-
-###  Flappy Bird Clone 
-Learning game mechanics, collision detection, and animation systems.
-
----
-
-###  Portfolio Website
-A personal portfolio to showcase projects, skills, and growth journey.
-
-
----
-###  Limitless
-learing AR technique system and gesture and 3-D modelling.
-
-
----
-###  NY Assistant
-AI chatbot and companion with two separate models FRIDAY and JARVIS
-
-
----
-## 🎯 Goals for 2026
-- 🎮 Build better games
-- 💼 Grow portfolio
-- 📚 Balance studies + coding
-- 🔥 Become consistent with building
-
----
-
-### 🌌 "Open to learning, collaborating, and building."
-
-⚡ Learning by creating, one project at a time.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/godl1kegyan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Gyanxkashyap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanxkashyap@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/godl1kegyan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Gyanxkashyap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanxkashyap@gmail.com) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Gyanxkashyap) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/GyanxKashyap)
 
 
 <!-- Snake Game Repo View -->
@@ -114,20 +16,25 @@ AI chatbot and companion with two separate models FRIDAY and JARVIS
 </div>
 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🖥️ Tech Stack:
 
-## 💭 Builder Philosophy
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-%236950EF.svg?style=for-the-badge&logo=qwen&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-"Learning by shipping projects,
-improving one bug and one idea at a time."
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GyanxKashyap&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=GyanxKashyap&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
