@@ -51,5 +51,71 @@
 
 
 
+## Currently Building
 
+<table>
+<tr>
+<td width="50%">
+
+<b>AI & LLMs</b><br>
+Experimenting with LLMs and neural networks.
+
+</td>
+<td width="50%">
+
+<b>macOS Projects</b><br>
+Building tools and experiments for macOS.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<b>Games</b><br>
+Creating games and exploring game development.
+
+</td>
+<td width="50%">
+
+<b>Web Experiments</b><br>
+Building interactive websites and exploring UI/UX.
+
+</td>
+</tr>
+</table>
+
+
+## Featured Projects
+<table>
+<tr>
+<td width="50%">
+
+### Lunar Focus
+A study timer app for deep study sessions with interactive UI to keep up the work with ranks and streaks.
+
+</td>
+<td width="50%">
+
+### Limitless
+A project which was built out of curiosity and inspired by JJK.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Timer App
+A simple timer app with a hero section for long deep study sessions.
+
+</td>
+<td width="50%">
+
+### AI Chatbot
+An AI-powered chatbot project exploring conversational interfaces and AI integration.
+
+</td>
+</tr>
+</table>
 
