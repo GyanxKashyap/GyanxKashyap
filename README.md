@@ -2,7 +2,7 @@
 
 <h1>---> Greetings, GYANxKASHYAP Here <---</h1>
 
-<p><b>18, Student Developer • Learning with Vibe-Coding • AI & Tech/b></p>
+<p><b>18, Student Developer • Learning with Vibe-Coding • AI & Tech<b></p>
 <table align="center">
 <tr>
 <td align="center" width="30%">
