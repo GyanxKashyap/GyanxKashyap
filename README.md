@@ -88,8 +88,8 @@ Building interactive websites and exploring UI/UX.
 <tr>
 <td width="50%">
 
-### Lunar Focus
-A study timer app for deep study sessions with interactive UI to keep up the work with ranks and streaks.
+### AIZEN
+A 40M parameter slm built from scratch.
 
 </td>
 <td width="50%">
