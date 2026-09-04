@@ -89,12 +89,16 @@ Building interactive websites and exploring UI/UX.
 <td width="50%">
 
 ### AIZEN
-A 40M parameter slm built from scratch.
+Aizen is a decoder-only Transformer written line by line in raw PyTorch — no transformers, no tiktoken, no pretrained weights. The architecture, the byte-pair tokenizer, the training loops, the evaluation harness and the web UI, all readable.
+
+
 
 </td>
 <td width="50%">
 
 ### Limitless
+
+
 A project which was built out of curiosity and inspired by JJK.
 
 </td>
@@ -104,12 +108,16 @@ A project which was built out of curiosity and inspired by JJK.
 <td width="50%">
 
 ### Timer App
+
+
 A simple timer app with a hero section for long deep study sessions.
 
 </td>
 <td width="50%">
 
 ### AI Chatbot
+
+
 An AI-powered chatbot project exploring conversational interfaces and AI integration.
 
 </td>
